@@ -1,5 +1,4 @@
 # CPHUSP
-- This repository maintains the source code for the CPHUSP algorithm
 - This paper proposes an algorithm named CPHUSP for mining closed frequent high utility sequential patterns
 - The code is implemented in C#. If you use this code, please cite to the following paper with Bib:
 
