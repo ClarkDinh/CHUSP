@@ -1,5 +1,5 @@
-# CPHUSP
-- This paper proposes an algorithm named CPHUSP for mining closed frequent high utility sequential patterns
+# CHUSP
+- This paper proposes an algorithm named CHUSP for mining closed frequent high utility sequential patterns
 - The code is implemented in C#: https://kcgacjp-my.sharepoint.com/:f:/g/personal/t_dinh_kcg_edu/Eo3-AQyv-YhBjw-NSeemw0gBRExtLt5uv1Tfo3nlOhKc0Q?e=ubqWyF. 
 - If you use this code, please cite to the following paper with Bib:
 
