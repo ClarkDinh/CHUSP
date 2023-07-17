@@ -6,6 +6,8 @@
 @article{dinh2023mining,
   title={Mining compact high utility sequential patterns},
   author={Dinh, Tai and Fournier-Viger, Philippe and Van Hong, Huynh},
-  journal={arXiv preprint arXiv:2302.11426},
+  journal={Nippon Applied Informatics Society (NAIS) journal},
+  vol={17}
+  page={43--55},
   year={2023}
 }
